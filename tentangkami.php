@@ -20,7 +20,7 @@
         </ul>
       </nav><!-- .nav-menu -->
 
-      <a href="courses.html" class="get-started-btn">Get Started</a>
+      <a href="#" class="get-started-btn">Get Started</a>
 
     </div>
   </header>
