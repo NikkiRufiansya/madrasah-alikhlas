@@ -6,7 +6,7 @@
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
 
-      <h1 class="logo mr-auto"><a href="index.html">AL IKHLAS</a></h1>
+      <h1 class="logo mr-auto"><a href="index.php">AL IKHLAS</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -14,11 +14,12 @@
         <ul>
           <li class="active"><a href="index.php">Beranda</a></li>
           <li><a href="tentangkami.php">Tentang Kami</a></li>
+           <li><a href="kegiatan.php">Kegiatan</a></li>
           <li><a href="pengajar.php">Pengajar</a></li>
         </ul>
       </nav><!-- .nav-menu -->
 
-      <a href="#" class="get-started-btn">Get Started</a>
+      <!-- <a href="#" class="get-started-btn">Get Started</a> -->
 
     </div>
   </header><!-- End Header -->
@@ -28,7 +29,7 @@
 		<div class="container position-relative" data-aos="zoom-in" data-aos-delay="100">
 			<h1>Learning Today,<br>Leading Tomorrow</h1>
 			<h2>We are team of talented designers making websites with Bootstrap</h2>
-			<a href="courses.html" class="btn-get-started">Get Started</a>
+			
 		</div>
 	</section><!-- End Hero -->
  <main id="main">
@@ -73,23 +74,23 @@
         <div class="row counters">
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-toggle="counter-up">500</span>
-            <p>Siswa</p>
+            <span data-toggle="counter-up">1232</span>
+            <p>Alumni</p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
             <span data-toggle="counter-up">64</span>
-            <p>Guru</p>
+            <p>Siswa</p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
             <span data-toggle="counter-up">42</span>
-            <p>Events</p>
+            <p>Pengajar</p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
             <span data-toggle="counter-up">15</span>
-            <p>Trainers</p>
+            <p>Staff</p>
           </div>
 
         </div>
