@@ -5,10 +5,10 @@
       <div class="container">
         <div class="row">
 
-          <div class="col-lg-3 col-md-6 footer-contact">
+          <div class="col-lg-6 col-md-6 footer-contact">
             <h3>Yayasan AL IKHLAS</h3>
             <p>
-             Jl Pangeran Antasari RT 14 <br>
+             Jl Pangeran Antasari RT 14, Nunukan, Kalimantan Utara<br>
               <strong>Phone:</strong> +1 5589 55488 55<br>
               <strong>Email:</strong> info@example.com<br>
             </p>

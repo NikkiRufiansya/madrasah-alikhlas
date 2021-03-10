@@ -30,14 +30,20 @@
 		<!-- ======= Breadcrumbs ======= -->
 		<div class="breadcrumbs">
 			<div class="container">
-				<h2>Pengajar</h2>
+				<h2>Pengajar & Staff Yayasan Al Ikhlas</h2>
 				<!-- <p>Est dolorum ut non facere possimus quibusdam eligendi voluptatem. Quia id aut similique quia voluptas sit quaerat debitis. Rerum omnis ipsam aperiam consequatur laboriosam nemo harum praesentium. </p> -->
 			</div>
 		</div><!-- End Breadcrumbs -->
 
+		
 		<!-- ======= Trainers Section ======= -->
 		<section id="trainers" class="trainers">
 			<div class="container" data-aos="fade-up">
+
+				<div class="section-title">
+					<h2>Pengajar</h2>
+					<p>Pengajar Profesional</p>
+				</div>
 
 				<div class="row" data-aos="zoom-in" data-aos-delay="100">
 					<div class="col-lg-4 col-md-6 d-flex align-items-stretch">
@@ -45,73 +51,58 @@
 							<img src="assets/img/trainers/trainer-1.jpg" class="img-fluid" alt="">
 							<div class="member-content">
 								<h4>Walter White</h4>
-								<span>Web Development</span>
-								<p>
-									Magni qui quod omnis unde et eos fuga et exercitationem. Odio veritatis perspiciatis quaerat qui aut aut aut
-								</p>
-								<div class="social">
-									<a href=""><i class="icofont-twitter"></i></a>
-									<a href=""><i class="icofont-facebook"></i></a>
-									<a href=""><i class="icofont-instagram"></i></a>
-									<a href=""><i class="icofont-linkedin"></i></a>
-								</div>
+								<span>Ketua Yayasan</span>
+
 							</div>
 						</div>
 					</div>
 
 					<div class="col-lg-4 col-md-6 d-flex align-items-stretch">
 						<div class="member">
-							<img src="assets/img/trainers/trainer-2.jpg" class="img-fluid" alt="">
+							<img src="assets/img/trainers/sudarni.png" class="img-fluid" alt="">
 							<div class="member-content">
-								<h4>Sarah Jhinson</h4>
-								<span>Marketing</span>
-								<p>
-									Repellat fugiat adipisci nemo illum nesciunt voluptas repellendus. In architecto rerum rerum temporibus
-								</p>
-								<div class="social">
-									<a href=""><i class="icofont-twitter"></i></a>
-									<a href=""><i class="icofont-facebook"></i></a>
-									<a href=""><i class="icofont-instagram"></i></a>
-									<a href=""><i class="icofont-linkedin"></i></a>
-								</div>
+								<h4>Sudarni, S.Pd.I</h4>
+								<span>Kepala Madrasah Aliyah Al Ikhlas</span>
 							</div>
 						</div>
 					</div>
 
 					<div class="col-lg-4 col-md-6 d-flex align-items-stretch">
 						<div class="member">
-							<img src="assets/img/trainers/trainer-3.jpg" class="img-fluid" alt="">
+							<img src="assets/img/trainers/ulpa.png" class="img-fluid" alt="">
 							<div class="member-content">
-								<h4>William Anderson</h4>
-								<span>Content</span>
-								<p>
-									Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
-								</p>
-								<div class="social">
-									<a href=""><i class="icofont-twitter"></i></a>
-									<a href=""><i class="icofont-facebook"></i></a>
-									<a href=""><i class="icofont-instagram"></i></a>
-									<a href=""><i class="icofont-linkedin"></i></a>
-								</div>
+								<h4>Andi Ulpa Rosali</h4>
+								<span>Kepala Madrasah Tsanawiyah Al Ikhlas</span>
 							</div>
 						</div>
 					</div>
 
 					<div class="col-lg-4 col-md-6 d-flex align-items-stretch">
 						<div class="member">
-							<img src="assets/img/trainers/trainer-3.jpg" class="img-fluid" alt="">
+							<img src="assets/img/trainers/nita.png" class="img-fluid" alt="">
 							<div class="member-content">
-								<h4>William Anderson</h4>
-								<span>Content</span>
-								<p>
-									Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
-								</p>
-								<div class="social">
-									<a href=""><i class="icofont-twitter"></i></a>
-									<a href=""><i class="icofont-facebook"></i></a>
-									<a href=""><i class="icofont-instagram"></i></a>
-									<a href=""><i class="icofont-linkedin"></i></a>
-								</div>
+								<h4>Nita Susanti, S.Pd</h4>
+								<span>Waka Kurikulum</span>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+						<div class="member">
+							<img src="assets/img/trainers/andi.png" class="img-fluid" alt="">
+							<div class="member-content">
+								<h4>Andi Nurlinda AS, S.Pd</h4>
+								<span>Guru Bid.Study Bahasa Indonesia</span>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+						<div class="member">
+							<img src="assets/img/trainers/unni.png" class="img-fluid" alt="">
+							<div class="member-content">
+								<h4>Nurhikmawati, S.Pd</h4>
+								<span>Guru Bid. Study Matematika</span>
 							</div>
 						</div>
 					</div>
@@ -119,160 +110,122 @@
 
 					<div class="col-lg-4 col-md-6 d-flex align-items-stretch">
 						<div class="member">
-							<img src="assets/img/trainers/trainer-3.jpg" class="img-fluid" alt="">
+							<img src="assets/img/trainers/noviyanti.png" class="img-fluid" alt="">
 							<div class="member-content">
-								<h4>William Anderson</h4>
-								<span>Content</span>
-								<p>
-									Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
-								</p>
-								<div class="social">
-									<a href=""><i class="icofont-twitter"></i></a>
-									<a href=""><i class="icofont-facebook"></i></a>
-									<a href=""><i class="icofont-instagram"></i></a>
-									<a href=""><i class="icofont-linkedin"></i></a>
-								</div>
+								<h4>Noviyanti, S.Pd</h4>
+								<span>Guru Bid. Study Al Quran Hadist</span>
+							</div>
+						</div>
+					</div>
+
+
+					<div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+						<div class="member">
+							<img src="assets/img/trainers/muliana.png" class="img-fluid" alt="">
+							<div class="member-content">
+								<h4>Muliana, S.Pd</h4>
+								<span>Guru Bid.Study PKn</span>
 							</div>
 						</div>
 					</div>
 
 					<div class="col-lg-4 col-md-6 d-flex align-items-stretch">
 						<div class="member">
-							<img src="assets/img/trainers/trainer-3.jpg" class="img-fluid" alt="">
+							<img src="assets/img/trainers/zaky.png" class="img-fluid" alt="">
 							<div class="member-content">
-								<h4>William Anderson</h4>
-								<span>Content</span>
-								<p>
-									Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
-								</p>
-								<div class="social">
-									<a href=""><i class="icofont-twitter"></i></a>
-									<a href=""><i class="icofont-facebook"></i></a>
-									<a href=""><i class="icofont-instagram"></i></a>
-									<a href=""><i class="icofont-linkedin"></i></a>
-								</div>
+								<h4>Muhammad Muzacky, S.Pd</h4>
+								<span>Guru Bid.Study Matematika</span>
 							</div>
 						</div>
 					</div>
 
 					<div class="col-lg-4 col-md-6 d-flex align-items-stretch">
 						<div class="member">
-							<img src="assets/img/trainers/trainer-3.jpg" class="img-fluid" alt="">
+							<img src="assets/img/trainers/ita.png" class="img-fluid" alt="">
 							<div class="member-content">
-								<h4>William Anderson</h4>
-								<span>Content</span>
-								<p>
-									Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
-								</p>
-								<div class="social">
-									<a href=""><i class="icofont-twitter"></i></a>
-									<a href=""><i class="icofont-facebook"></i></a>
-									<a href=""><i class="icofont-instagram"></i></a>
-									<a href=""><i class="icofont-linkedin"></i></a>
-								</div>
+								<h4>Ita Apriani, S.S</h4>
+								<span>Guru Bid.Study Bahasa Indonesia</span>
 							</div>
 						</div>
 					</div>
 
 					<div class="col-lg-4 col-md-6 d-flex align-items-stretch">
 						<div class="member">
-							<img src="assets/img/trainers/trainer-3.jpg" class="img-fluid" alt="">
+							<img src="assets/img/trainers/devi.png" class="img-fluid" alt="">
 							<div class="member-content">
-								<h4>William Anderson</h4>
-								<span>Content</span>
-								<p>
-									Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
-								</p>
-								<div class="social">
-									<a href=""><i class="icofont-twitter"></i></a>
-									<a href=""><i class="icofont-facebook"></i></a>
-									<a href=""><i class="icofont-instagram"></i></a>
-									<a href=""><i class="icofont-linkedin"></i></a>
-								</div>
+								<h4>Deviani Nirwan S.Pd</h4>
+								<span>Guru Bid Study Matematika</span>
 							</div>
 						</div>
 					</div>
 
 					<div class="col-lg-4 col-md-6 d-flex align-items-stretch">
 						<div class="member">
-							<img src="assets/img/trainers/trainer-3.jpg" class="img-fluid" alt="">
+							<img src="assets/img/trainers/asran.png" class="img-fluid" alt="">
 							<div class="member-content">
-								<h4>William Anderson</h4>
-								<span>Content</span>
-								<p>
-									Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
-								</p>
-								<div class="social">
-									<a href=""><i class="icofont-twitter"></i></a>
-									<a href=""><i class="icofont-facebook"></i></a>
-									<a href=""><i class="icofont-instagram"></i></a>
-									<a href=""><i class="icofont-linkedin"></i></a>
-								</div>
+								<h4>Asran, S.Pd</h4>
+								<span>Guru Bid. Study Bahasa Inggris</span>
 							</div>
 						</div>
 					</div>
 
 					<div class="col-lg-4 col-md-6 d-flex align-items-stretch">
 						<div class="member">
-							<img src="assets/img/trainers/trainer-3.jpg" class="img-fluid" alt="">
+							<img src="assets/img/trainers/anita.png" class="img-fluid" alt="">
 							<div class="member-content">
-								<h4>William Anderson</h4>
-								<span>Content</span>
-								<p>
-									Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
-								</p>
-								<div class="social">
-									<a href=""><i class="icofont-twitter"></i></a>
-									<a href=""><i class="icofont-facebook"></i></a>
-									<a href=""><i class="icofont-instagram"></i></a>
-									<a href=""><i class="icofont-linkedin"></i></a>
-								</div>
+								<h4>Anita, S.Pd</h4>
+								<span>Guru Bid.Study Fisika</span>
+							</div>
+						</div>
+					</div>
+
+					
+
+
+				</div>
+
+
+				<div class="section-title">
+					<h2>Staff</h2>
+					<p>Staff Al Ikhlas</p>
+				</div>
+				<div class="row" data-aos="zoom-in" data-aos-delay="100">
+					<div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+						<div class="member">
+							<img src="assets/img/trainers/emi.png" class="img-fluid" alt="">
+							<div class="member-content">
+								<h4>Emi Sulasmi,S.Pd</h4>
+								<span>Bendahara</span>
 							</div>
 						</div>
 					</div>
 
 					<div class="col-lg-4 col-md-6 d-flex align-items-stretch">
 						<div class="member">
-							<img src="assets/img/trainers/trainer-3.jpg" class="img-fluid" alt="">
+							<img src="assets/img/trainers/agus.png" class="img-fluid" alt="">
 							<div class="member-content">
-								<h4>William Anderson</h4>
-								<span>Content</span>
-								<p>
-									Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
-								</p>
-								<div class="social">
-									<a href=""><i class="icofont-twitter"></i></a>
-									<a href=""><i class="icofont-facebook"></i></a>
-									<a href=""><i class="icofont-instagram"></i></a>
-									<a href=""><i class="icofont-linkedin"></i></a>
-								</div>
+								<h4>Nuky Agusrianto</h4>
+								<span>Ka.Tata Usaha</span>
 							</div>
 						</div>
 					</div>
 
 					<div class="col-lg-4 col-md-6 d-flex align-items-stretch">
 						<div class="member">
-							<img src="assets/img/trainers/trainer-3.jpg" class="img-fluid" alt="">
+							<img src="assets/img/trainers/emon.png" class="img-fluid" alt="">
 							<div class="member-content">
-								<h4>William Anderson</h4>
-								<span>Content</span>
-								<p>
-									Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
-								</p>
-								<div class="social">
-									<a href=""><i class="icofont-twitter"></i></a>
-									<a href=""><i class="icofont-facebook"></i></a>
-									<a href=""><i class="icofont-instagram"></i></a>
-									<a href=""><i class="icofont-linkedin"></i></a>
-								</div>
+								<h4>Samsuddin</h4>
+								<span>Staff Tata Usaha</span>
 							</div>
 						</div>
 					</div>
 
 				</div>
 
+				
 			</div>
 		</section><!-- End Trainers Section -->
+
 	</main>
 	<?php include('footer.php');?>
 </body>
