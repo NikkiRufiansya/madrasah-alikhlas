@@ -48,9 +48,9 @@
 				<div class="row" data-aos="zoom-in" data-aos-delay="100">
 					<div class="col-lg-4 col-md-6 d-flex align-items-stretch">
 						<div class="member">
-							<img src="assets/img/trainers/trainer-1.jpg" class="img-fluid" alt="">
+							<img src="assets/img/trainers/Dra.png" class="img-fluid" alt="">
 							<div class="member-content">
-								<h4>Walter White</h4>
+								<h4>Dra. Noor Haeda</h4>
 								<span>Ketua Yayasan</span>
 
 							</div>
@@ -82,7 +82,27 @@
 							<img src="assets/img/trainers/nita.png" class="img-fluid" alt="">
 							<div class="member-content">
 								<h4>Nita Susanti, S.Pd</h4>
-								<span>Waka Kurikulum</span>
+								<span>Waka Kurikulum MA</span>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+						<div class="member">
+							<img src="assets/img/trainers/margi.png" class="img-fluid" alt="">
+							<div class="member-content">
+								<h4>Margi Rahayu, S.Pd</h4>
+								<span>Waka Kurikulum MTs</span>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+						<div class="member">
+							<img src="assets/img/trainers/iwan.png" class="img-fluid" alt="">
+							<div class="member-content">
+								<h4>Irwansyah, S.E</h4>
+								<span>Waka Kesiswaan</span>
 							</div>
 						</div>
 					</div>
@@ -179,7 +199,57 @@
 						</div>
 					</div>
 
-					
+
+					<div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+						<div class="member">
+							<img src="assets/img/trainers/winarsih.png" class="img-fluid" alt="">
+							<div class="member-content">
+								<h4>Winarsih, S.Pd</h4>
+								<span>Guru Bid.Study Bahasa Indonesia</span>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+						<div class="member">
+							<img src="assets/img/trainers/rahmiani.png" class="img-fluid" alt="">
+							<div class="member-content">
+								<h4>Ulpa Rahmiani, S.Pd</h4>
+								<span>Guru Bid.Study Bahasa Inggris</span>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+						<div class="member">
+							<img src="assets/img/trainers/ismail.png" class="img-fluid" alt="">
+							<div class="member-content">
+								<h4>Ismail, S.Pd</h4>
+								<span>Guru Bid. Study Fiqih</span>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+						<div class="member">
+							<img src="assets/img/trainers/evi.png" class="img-fluid" alt="">
+							<div class="member-content">
+								<h4>Evi Halmiati, S.Pd</h4>
+								<span>Guru Bid. Study Matematika</span>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+						<div class="member">
+							<img src="assets/img/trainers/baihaqi.png" class="img-fluid" alt="">
+							<div class="member-content">
+								<h4>Ahmad Baihaqi, S.Ag</h4>
+								<span>Guru Bid. Study Bahasa Arab</span>
+							</div>
+						</div>
+					</div>
+
 
 
 				</div>
@@ -212,6 +282,17 @@
 
 					<div class="col-lg-4 col-md-6 d-flex align-items-stretch">
 						<div class="member">
+							<img src="assets/img/trainers/mawah.png" class="img-fluid" alt="">
+							<div class="member-content">
+								<h4>Ma'wah, S.Pd</h4>
+								<span>Bimbingan Konseling</span>
+							</div>
+						</div>
+					</div>
+
+
+					<div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+						<div class="member">
 							<img src="assets/img/trainers/emon.png" class="img-fluid" alt="">
 							<div class="member-content">
 								<h4>Samsuddin</h4>
@@ -219,6 +300,18 @@
 							</div>
 						</div>
 					</div>
+
+					<div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+						<div class="member">
+							<img src="assets/img/trainers/nurhidaya.png" class="img-fluid" alt="">
+							<div class="member-content">
+								<h4>Nurhidaya</h4>
+								<span>Staff Tata Usaha</span>
+							</div>
+						</div>
+					</div>
+
+					
 
 				</div>
 
