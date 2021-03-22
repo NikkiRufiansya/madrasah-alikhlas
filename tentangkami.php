@@ -14,10 +14,10 @@
 
       <nav class="nav-menu d-none d-lg-block">
         <ul>
-          <li ><a href="index.php">Beranda</a></li>
-          <li class="active"><a  href="tentangkami.php">Tentang Kami</a></li>
-          <li><a href="kegiatan.php">Kegiatan</a></li>
-          <li><a href="pengajar.php">Pengajar</a></li>
+          <li ><a href="index.php">Home</a></li>
+          <li class="active"><a  href="tentangkami.php">About Us</a></li>
+          <li><a href="kegiatan.php">Events</a></li>
+          <li><a href="pengajar.php">Trainers</a></li>
         </ul>
       </nav><!-- .nav-menu -->
 
