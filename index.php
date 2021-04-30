@@ -77,22 +77,22 @@
     <div class="row counters">
 
       <div class="col-lg-3 col-6 text-center">
-        <span data-toggle="counter-up">123</span>
+        <span data-toggle="counter-up">0</span>
         <p>Alumni</p>
       </div>
 
       <div class="col-lg-3 col-6 text-center">
-        <span data-toggle="counter-up">64</span>
+        <span data-toggle="counter-up">0</span>
         <p>Siswa</p>
       </div>
 
       <div class="col-lg-3 col-6 text-center">
-        <span data-toggle="counter-up">20</span>
+        <span data-toggle="counter-up">0</span>
         <p>Pengajar</p>
       </div>
 
       <div class="col-lg-3 col-6 text-center">
-        <span data-toggle="counter-up">5</span>
+        <span data-toggle="counter-up">0</span>
         <p>Staff</p>
       </div>
 
